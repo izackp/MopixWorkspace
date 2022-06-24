@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:SDLTTF/SDL_ttf.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:SDLTest/SDLTest.xcodeproj">
    </FileRef>
    <FileRef

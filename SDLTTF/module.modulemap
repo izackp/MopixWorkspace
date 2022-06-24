@@ -1,0 +1,7 @@
+
+framework module SDL2_ttf {
+    
+    header "SDL_ttf.h"
+    
+    export *
+}
