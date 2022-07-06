@@ -16,7 +16,6 @@
 		F307EE2A282738F8003915D7 /* svg.c in Sources */ = {isa = PBXBuildFile; fileRef = F307EE28282738F8003915D7 /* svg.c */; };
 		F307EE2C282807EB003915D7 /* hb-ms-feature-ranges.cc in Sources */ = {isa = PBXBuildFile; fileRef = F307EE2B282807EB003915D7 /* hb-ms-feature-ranges.cc */; };
 		F307EE2D282807EB003915D7 /* hb-ms-feature-ranges.cc in Sources */ = {isa = PBXBuildFile; fileRef = F307EE2B282807EB003915D7 /* hb-ms-feature-ranges.cc */; };
-		F364A5B82620E1A200325ECE /* FTL.TXT in Resources */ = {isa = PBXBuildFile; fileRef = F364A5B72620E1A200325ECE /* FTL.TXT */; };
 		F364A5C42620E22400325ECE /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = F364A5C32620E22400325ECE /* ReadMe.txt */; };
 		F3696FE4278F7107003A7F94 /* sdf.c in Sources */ = {isa = PBXBuildFile; fileRef = F3696FE3278F7107003A7F94 /* sdf.c */; };
 		F3696FE7278F7107003A7F94 /* sdf.c in Sources */ = {isa = PBXBuildFile; fileRef = F3696FE3278F7107003A7F94 /* sdf.c */; };
@@ -673,7 +672,6 @@
 			files = (
 				F364A5C42620E22400325ECE /* ReadMe.txt in Resources */,
 				F384BE65261ECD9F0028A248 /* FreeType-LICENSE.txt in Resources */,
-				F364A5B82620E1A200325ECE /* FTL.TXT in Resources */,
 				7FC2F5DC285AC0D600836845 /* CMake in Resources */,
 				F384BE62261ECD9F0028A248 /* HarfBuzz-LICENSE.txt in Resources */,
 			);
