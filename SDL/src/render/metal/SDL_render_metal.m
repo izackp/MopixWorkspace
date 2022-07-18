@@ -1732,7 +1732,7 @@ METAL_CreateRenderer(SDL_Window * window, Uint32 flags)
     data.mtlview = view;
 
 #ifdef __MACOSX__
-    layer = (CAMetalLayer *)[(NSView *)view layer];
+    layer = (CAMetalLayer *)[(__bridge NSView *)view layer];
 #else
     layer = (CAMetalLayer *)[(__bridge UIView *)view layer];
 #endif

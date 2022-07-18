@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A7D88BC923E24BED00DCD162"
-               BuildableName = "SDL2.framework"
-               BlueprintName = "Framework-tvOS"
+               BuildableName = "SDL2_tvOS.framework"
+               BlueprintName = "Frameworkg-tvOS"
                ReferencedContainer = "container:SDL.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -51,8 +51,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A7D88BC923E24BED00DCD162"
-            BuildableName = "SDL2.framework"
-            BlueprintName = "Framework-tvOS"
+            BuildableName = "SDL2_tvOS.framework"
+            BlueprintName = "Frameworkg-tvOS"
             ReferencedContainer = "container:SDL.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

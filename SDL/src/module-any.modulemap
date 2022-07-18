@@ -1,3 +1,4 @@
+
 framework module SDL2 {
     textual header "begin_code.h"
     textual header "close_code.h"
@@ -13,7 +14,7 @@ framework module SDL2 {
         requires iossimulator
         textual header "SDL_config_iphoneos.h"
     }
-    module ios {
+    module macos {
         requires macos
         textual header "SDL_config_macosx.h"
     }

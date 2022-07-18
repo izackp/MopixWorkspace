@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1320"
+   LastUpgradeVersion = "1340"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A7D88A1423E2437C00DCD162"
+               BlueprintIdentifier = "DF288AE3288487E0005F7C1F"
                BuildableName = "SDL2.framework"
-               BlueprintName = "Frameworkasd-iOS"
+               BlueprintName = "Framework"
                ReferencedContainer = "container:SDL.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -50,9 +50,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A7D88A1423E2437C00DCD162"
+            BlueprintIdentifier = "DF288AE3288487E0005F7C1F"
             BuildableName = "SDL2.framework"
-            BlueprintName = "Frameworkasd-iOS"
+            BlueprintName = "Framework"
             ReferencedContainer = "container:SDL.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
