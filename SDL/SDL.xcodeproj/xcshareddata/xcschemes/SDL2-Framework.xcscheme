@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DF288AE3288487E0005F7C1F"
                BuildableName = "SDL2.framework"
-               BlueprintName = "Framework"
+               BlueprintName = "SDL2-Framework"
                ReferencedContainer = "container:SDL.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -52,7 +52,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DF288AE3288487E0005F7C1F"
             BuildableName = "SDL2.framework"
-            BlueprintName = "Framework"
+            BlueprintName = "SDL2-Framework"
             ReferencedContainer = "container:SDL.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

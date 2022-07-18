@@ -2,9 +2,7 @@
 framework module SDL2 {
     textual header "begin_code.h"
     textual header "close_code.h"
-    //header "SDL_internal.h"
     textual header "SDL_config.h"
-    
     
     module ios {
         requires ios
@@ -20,9 +18,6 @@ framework module SDL2 {
     }
     textual header "SDL_platform.h"
     textual header "SDL_stdinc.h"
-    //header "SDL_assert.h"
-    //header "SDL_opengl_glext.h"
-    //header "SDL_error.h"
-    umbrella header "shims.h"
+    umbrella header "SDL.h"
     export *
 }

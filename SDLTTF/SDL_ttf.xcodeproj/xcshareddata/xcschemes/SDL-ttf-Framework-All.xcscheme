@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1320"
+   LastUpgradeVersion = "1340"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BECDF5FE0761BA81005FE872"
-               BuildableName = "SDL2.framework"
-               BlueprintName = "ignore-macOS"
-               ReferencedContainer = "container:SDL.xcodeproj">
+               BlueprintIdentifier = "BE48FD5D07AFA17000BB41DA"
+               BuildableName = "SDL2_ttf.framework"
+               BlueprintName = "Framework-All"
+               ReferencedContainer = "container:SDL_ttf.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,15 +47,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BECDF5FE0761BA81005FE872"
-            BuildableName = "SDL2.framework"
-            BlueprintName = "ignore-macOS"
-            ReferencedContainer = "container:SDL.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

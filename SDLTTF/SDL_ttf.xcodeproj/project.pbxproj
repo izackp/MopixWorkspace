@@ -12,98 +12,6 @@
 		BE48FD6207AFA17000BB41DA /* SDL_ttf.c in Sources */ = {isa = PBXBuildFile; fileRef = F567D67A01CD962A01F3E8B9 /* SDL_ttf.c */; };
 		BE48FD6B07AFA17000BB41DA /* SDL_ttf.c in Sources */ = {isa = PBXBuildFile; fileRef = F567D67A01CD962A01F3E8B9 /* SDL_ttf.c */; };
 		DF288C9B2884920C005F7C1F /* SDL2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DF531FF52883879800517EFB /* SDL2.framework */; };
-		DF5DA95F28830CA600BA44F6 /* SDL_ttf.h in Headers */ = {isa = PBXBuildFile; fileRef = 1014BAEA010A4B677F000001 /* SDL_ttf.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DF5DA96128830CA600BA44F6 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = F364A5C32620E22400325ECE /* ReadMe.txt */; };
-		DF5DA96228830CA600BA44F6 /* FreeType-LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = F384BE61261ECD9F0028A248 /* FreeType-LICENSE.txt */; };
-		DF5DA96328830CA600BA44F6 /* CMake in Resources */ = {isa = PBXBuildFile; fileRef = 7FC2F5DB285AC0D600836845 /* CMake */; };
-		DF5DA96428830CA600BA44F6 /* HarfBuzz-LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = F384BE60261ECD9F0028A248 /* HarfBuzz-LICENSE.txt */; };
-		DF5DA96628830CA600BA44F6 /* ftbdf.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB76261EC0DD0028A248 /* ftbdf.c */; };
-		DF5DA96728830CA600BA44F6 /* hb-ot-shape-complex-vowel-constraints.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD15261EC7650028A248 /* hb-ot-shape-complex-vowel-constraints.cc */; };
-		DF5DA96828830CA600BA44F6 /* ftglyph.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB7E261EC0DD0028A248 /* ftglyph.c */; };
-		DF5DA96928830CA600BA44F6 /* type1cid.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC39261EC1890028A248 /* type1cid.c */; };
-		DF5DA96A28830CA600BA44F6 /* psaux.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC70261EC2050028A248 /* psaux.c */; };
-		DF5DA96B28830CA600BA44F6 /* hb-set.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD06261EC7640028A248 /* hb-set.cc */; };
-		DF5DA96C28830CA600BA44F6 /* sfnt.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC9C261EC2680028A248 /* sfnt.c */; };
-		DF5DA96D28830CA600BA44F6 /* hb-ot-cff1-table.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD24261EC7650028A248 /* hb-ot-cff1-table.cc */; };
-		DF5DA96E28830CA600BA44F6 /* hb-ot-shape-complex-syllabic.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD2E261EC7650028A248 /* hb-ot-shape-complex-syllabic.cc */; };
-		DF5DA96F28830CA600BA44F6 /* hb-ot-shape-complex-khmer.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD20261EC7650028A248 /* hb-ot-shape-complex-khmer.cc */; };
-		DF5DA97028830CA600BA44F6 /* truetype.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BCBD261EC2980028A248 /* truetype.c */; };
-		DF5DA97128830CA600BA44F6 /* hb-ot-map.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD0C261EC7640028A248 /* hb-ot-map.cc */; };
-		DF5DA97228830CA600BA44F6 /* ftcid.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB83261EC0DD0028A248 /* ftcid.c */; };
-		DF5DA97328830CA600BA44F6 /* hb-buffer.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD1D261EC7650028A248 /* hb-buffer.cc */; };
-		DF5DA97428830CA600BA44F6 /* hb-shaper.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD13261EC7650028A248 /* hb-shaper.cc */; };
-		DF5DA97528830CA600BA44F6 /* type42.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BCD3261EC2BE0028A248 /* type42.c */; };
-		DF5DA97628830CA600BA44F6 /* hb-face.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD25261EC7650028A248 /* hb-face.cc */; };
-		DF5DA97728830CA600BA44F6 /* winfnt.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BCDE261EC2CF0028A248 /* winfnt.c */; };
-		DF5DA97828830CA600BA44F6 /* cff.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC2E261EC1710028A248 /* cff.c */; };
-		DF5DA97928830CA600BA44F6 /* hb-buffer-serialize.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD19261EC7650028A248 /* hb-buffer-serialize.cc */; };
-		DF5DA97A28830CA600BA44F6 /* ftsynth.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB7F261EC0DD0028A248 /* ftsynth.c */; };
-		DF5DA97B28830CA600BA44F6 /* hb-ot-shape-normalize.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD29261EC7650028A248 /* hb-ot-shape-normalize.cc */; };
-		DF5DA97C28830CA600BA44F6 /* hb-static.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD08261EC7640028A248 /* hb-static.cc */; };
-		DF5DA97D28830CA600BA44F6 /* hb-number.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD11261EC7640028A248 /* hb-number.cc */; };
-		DF5DA97E28830CA600BA44F6 /* ftinit.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB81261EC0DD0028A248 /* ftinit.c */; };
-		DF5DA97F28830CA600BA44F6 /* hb-ot-shape.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD2D261EC7650028A248 /* hb-ot-shape.cc */; };
-		DF5DA98028830CA600BA44F6 /* hb-ot-shape-complex-myanmar.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD21261EC7650028A248 /* hb-ot-shape-complex-myanmar.cc */; };
-		DF5DA98128830CA600BA44F6 /* hb-shape-plan.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD0F261EC7640028A248 /* hb-shape-plan.cc */; };
-		DF5DA98228830CA600BA44F6 /* ftbase.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB7C261EC0DD0028A248 /* ftbase.c */; };
-		DF5DA98328830CA600BA44F6 /* pcf.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC5A261EC1DF0028A248 /* pcf.c */; };
-		DF5DA98428830CA600BA44F6 /* ftlzw.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC4F261EC1B90028A248 /* ftlzw.c */; };
-		DF5DA98528830CA600BA44F6 /* ftsystem.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB87261EC0DE0028A248 /* ftsystem.c */; };
-		DF5DA98628830CA600BA44F6 /* ftpfr.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB84261EC0DD0028A248 /* ftpfr.c */; };
-		DF5DA98728830CA600BA44F6 /* hb-ot-shape-complex-use.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD1B261EC7650028A248 /* hb-ot-shape-complex-use.cc */; };
-		DF5DA98828830CA600BA44F6 /* hb-ot-cff2-table.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD1E261EC7650028A248 /* hb-ot-cff2-table.cc */; };
-		DF5DA98928830CA600BA44F6 /* hb-ot-math.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD2B261EC7650028A248 /* hb-ot-math.cc */; };
-		DF5DA98A28830CA600BA44F6 /* ftmm.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB82261EC0DD0028A248 /* ftmm.c */; };
-		DF5DA98B28830CA600BA44F6 /* hb-ot-tag.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD10261EC7640028A248 /* hb-ot-tag.cc */; };
-		DF5DA98C28830CA600BA44F6 /* fttype1.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB8A261EC0DE0028A248 /* fttype1.c */; };
-		DF5DA98D28830CA600BA44F6 /* ftstroke.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB79261EC0DD0028A248 /* ftstroke.c */; };
-		DF5DA98E28830CA600BA44F6 /* hb-ot-shape-complex-hangul.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD0D261EC7640028A248 /* hb-ot-shape-complex-hangul.cc */; };
-		DF5DA98F28830CA600BA44F6 /* ftgzip.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC44261EC1A30028A248 /* ftgzip.c */; };
-		DF5DA99028830CA600BA44F6 /* svg.c in Sources */ = {isa = PBXBuildFile; fileRef = F307EE28282738F8003915D7 /* svg.c */; };
-		DF5DA99128830CA600BA44F6 /* autofit.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB6B261EC0760028A248 /* autofit.c */; };
-		DF5DA99228830CA600BA44F6 /* hb-ot-shape-complex-indic-table.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD0B261EC7640028A248 /* hb-ot-shape-complex-indic-table.cc */; };
-		DF5DA99328830CA600BA44F6 /* hb-aat-map.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD27261EC7650028A248 /* hb-aat-map.cc */; };
-		DF5DA99428830CA600BA44F6 /* ftgasp.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB77261EC0DD0028A248 /* ftgasp.c */; };
-		DF5DA99528830CA600BA44F6 /* ftwinfnt.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB88261EC0DE0028A248 /* ftwinfnt.c */; };
-		DF5DA99628830CA600BA44F6 /* SDL_ttf.c in Sources */ = {isa = PBXBuildFile; fileRef = F567D67A01CD962A01F3E8B9 /* SDL_ttf.c */; };
-		DF5DA99728830CA600BA44F6 /* hb-ot-shape-complex-arabic.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD14261EC7650028A248 /* hb-ot-shape-complex-arabic.cc */; };
-		DF5DA99828830CA600BA44F6 /* hb-common.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD23261EC7650028A248 /* hb-common.cc */; };
-		DF5DA99928830CA600BA44F6 /* hb-ot-metrics.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD12261EC7640028A248 /* hb-ot-metrics.cc */; };
-		DF5DA99A28830CA600BA44F6 /* hb-aat-layout.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD22261EC7650028A248 /* hb-aat-layout.cc */; };
-		DF5DA99B28830CA600BA44F6 /* hb-blob.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD26261EC7650028A248 /* hb-blob.cc */; };
-		DF5DA99C28830CA600BA44F6 /* hb-ot-shape-complex-thai.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD17261EC7650028A248 /* hb-ot-shape-complex-thai.cc */; };
-		DF5DA99D28830CA600BA44F6 /* type1.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BCC8261EC2AE0028A248 /* type1.c */; };
-		DF5DA99E28830CA600BA44F6 /* hb-shape.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD07261EC7640028A248 /* hb-shape.cc */; };
-		DF5DA99F28830CA600BA44F6 /* raster.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC91261EC2560028A248 /* raster.c */; };
-		DF5DA9A028830CA600BA44F6 /* hb-ot-face.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD1F261EC7650028A248 /* hb-ot-face.cc */; };
-		DF5DA9A128830CA600BA44F6 /* ftgxval.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB78261EC0DD0028A248 /* ftgxval.c */; };
-		DF5DA9A228830CA600BA44F6 /* hb-font.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD1A261EC7650028A248 /* hb-font.cc */; };
-		DF5DA9A328830CA600BA44F6 /* hb-ucd.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD0A261EC7640028A248 /* hb-ucd.cc */; };
-		DF5DA9A428830CA600BA44F6 /* ftpatent.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB7D261EC0DD0028A248 /* ftpatent.c */; };
-		DF5DA9A528830CA600BA44F6 /* sdf.c in Sources */ = {isa = PBXBuildFile; fileRef = F3696FE3278F7107003A7F94 /* sdf.c */; };
-		DF5DA9A628830CA600BA44F6 /* hb-ft.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD28261EC7650028A248 /* hb-ft.cc */; };
-		DF5DA9A728830CA600BA44F6 /* hb-ot-shape-fallback.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD2C261EC7650028A248 /* hb-ot-shape-fallback.cc */; };
-		DF5DA9A828830CA600BA44F6 /* hb-ot-layout.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD16261EC7650028A248 /* hb-ot-layout.cc */; };
-		DF5DA9A928830CA600BA44F6 /* hb-ms-feature-ranges.cc in Sources */ = {isa = PBXBuildFile; fileRef = F307EE2B282807EB003915D7 /* hb-ms-feature-ranges.cc */; };
-		DF5DA9AA28830CA600BA44F6 /* bdf.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC0D261EC0F90028A248 /* bdf.c */; };
-		DF5DA9AB28830CA600BA44F6 /* psmodule.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC86261EC23B0028A248 /* psmodule.c */; };
-		DF5DA9AC28830CA600BA44F6 /* hb-ot-var.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD2A261EC7650028A248 /* hb-ot-var.cc */; };
-		DF5DA9AD28830CA600BA44F6 /* ftotval.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB85261EC0DE0028A248 /* ftotval.c */; };
-		DF5DA9AE28830CA600BA44F6 /* hb-ot-shape-complex-default.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD05261EC7640028A248 /* hb-ot-shape-complex-default.cc */; };
-		DF5DA9AF28830CA600BA44F6 /* ftfstype.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB86261EC0DE0028A248 /* ftfstype.c */; };
-		DF5DA9B028830CA600BA44F6 /* pshinter.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC7B261EC2180028A248 /* pshinter.c */; };
-		DF5DA9B128830CA600BA44F6 /* hb-ot-font.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD0E261EC7640028A248 /* hb-ot-font.cc */; };
-		DF5DA9B228830CA600BA44F6 /* ftbitmap.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB80261EC0DD0028A248 /* ftbitmap.c */; };
-		DF5DA9B328830CA600BA44F6 /* smooth.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BCA7261EC2770028A248 /* smooth.c */; };
-		DF5DA9B428830CA600BA44F6 /* hb-ot-shape-complex-hebrew.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD09261EC7640028A248 /* hb-ot-shape-complex-hebrew.cc */; };
-		DF5DA9B528830CA600BA44F6 /* ftbbox.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB7B261EC0DD0028A248 /* ftbbox.c */; };
-		DF5DA9B628830CA600BA44F6 /* hb-fallback-shape.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BE47261EC9470028A248 /* hb-fallback-shape.cc */; };
-		DF5DA9B728830CA600BA44F6 /* ftdebug.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BB7A261EC0DD0028A248 /* ftdebug.c */; };
-		DF5DA9B828830CA600BA44F6 /* hb-unicode.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD1C261EC7650028A248 /* hb-unicode.cc */; };
-		DF5DA9B928830CA600BA44F6 /* pfr.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC65261EC1F30028A248 /* pfr.c */; };
-		DF5DA9BA28830CA600BA44F6 /* hb-ot-shape-complex-indic.cc in Sources */ = {isa = PBXBuildFile; fileRef = F384BD18261EC7650028A248 /* hb-ot-shape-complex-indic.cc */; };
-		DF5DA9BB28830CA600BA44F6 /* ftbzip2.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BC18261EC1440028A248 /* ftbzip2.c */; };
-		DF5DA9BC28830CA600BA44F6 /* ftcache.c in Sources */ = {isa = PBXBuildFile; fileRef = F384BCF1261EC5130028A248 /* ftcache.c */; };
 		F307EE29282738F8003915D7 /* svg.c in Sources */ = {isa = PBXBuildFile; fileRef = F307EE28282738F8003915D7 /* svg.c */; };
 		F307EE2A282738F8003915D7 /* svg.c in Sources */ = {isa = PBXBuildFile; fileRef = F307EE28282738F8003915D7 /* svg.c */; };
 		F307EE2C282807EB003915D7 /* hb-ms-feature-ranges.cc in Sources */ = {isa = PBXBuildFile; fileRef = F307EE2B282807EB003915D7 /* hb-ms-feature-ranges.cc */; };
@@ -313,7 +221,6 @@
 		BE48FD7207AFA17000BB41DA /* Create DMG */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Create DMG"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF2D82682865955700D4A860 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = module.modulemap; sourceTree = "<group>"; };
 		DF531FF52883879800517EFB /* SDL2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = SDL2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DF5DA9C528830CA600BA44F6 /* SDL2_ttf.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDL2_ttf.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F307EE28282738F8003915D7 /* svg.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = svg.c; path = ../external/freetype/src/svg/svg.c; sourceTree = "<group>"; };
 		F307EE2B282807EB003915D7 /* hb-ms-feature-ranges.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "hb-ms-feature-ranges.cc"; path = "../external/harfbuzz/src/hb-ms-feature-ranges.cc"; sourceTree = "<group>"; };
 		F364A5B72620E1A200325ECE /* FTL.TXT */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = FTL.TXT; path = ../../external/freetype/docs/FTL.TXT; sourceTree = "<group>"; };
@@ -424,13 +331,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DF5DA9BD28830CA600BA44F6 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -450,7 +350,6 @@
 				BE48FD6707AFA17000BB41DA /* SDL2_ttf.framework */,
 				BE48FD6E07AFA17000BB41DA /* libSDL2_ttf.a */,
 				BE48FD7207AFA17000BB41DA /* Create DMG */,
-				DF5DA9C528830CA600BA44F6 /* SDL2_ttf.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -634,14 +533,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DF5DA95E28830CA600BA44F6 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DF5DA95F28830CA600BA44F6 /* SDL_ttf.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
@@ -704,27 +595,6 @@
 			productReference = BE48FD7207AFA17000BB41DA /* Create DMG */;
 			productType = "com.apple.product-type.tool";
 		};
-		DF5DA95D28830CA600BA44F6 /* SDL2_ttf-iOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = DF5DA9C228830CA600BA44F6 /* Build configuration list for PBXNativeTarget "SDL2_ttf-iOS" */;
-			buildPhases = (
-				DF5DA95E28830CA600BA44F6 /* Headers */,
-				DF5DA96028830CA600BA44F6 /* Resources */,
-				DF5DA96528830CA600BA44F6 /* Sources */,
-				DF5DA9BD28830CA600BA44F6 /* Frameworks */,
-				DF5DA9DC288356D900BA44F6 /* ShellScript */,
-			);
-			buildRules = (
-			);
-			comments = "Installed into ~/Library/Frameworks/SDL_ttf.framework\n\nAdd -framework SDL_ttf to your linker flags\nAdd ~/Library/Frameworks/SDL_ttf.framework/Headers to your header search path\nAdd ~/Library/Frameworks to your library search path";
-			dependencies = (
-			);
-			name = "SDL2_ttf-iOS";
-			productInstallPath = "@executable_path/../Frameworks";
-			productName = SDL_ttf;
-			productReference = DF5DA9C528830CA600BA44F6 /* SDL2_ttf.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -734,10 +604,6 @@
 				LastUpgradeCheck = 1130;
 				TargetAttributes = {
 					BE48FD5D07AFA17000BB41DA = {
-						DevelopmentTeam = 5R72AJ6392;
-						ProvisioningStyle = Automatic;
-					};
-					DF5DA95D28830CA600BA44F6 = {
 						DevelopmentTeam = 5R72AJ6392;
 						ProvisioningStyle = Automatic;
 					};
@@ -759,7 +625,6 @@
 				BE48FD5D07AFA17000BB41DA /* Framework-All */,
 				BE48FD6807AFA17000BB41DA /* Static Library */,
 				BE48FD6F07AFA17000BB41DA /* Create DMG */,
-				DF5DA95D28830CA600BA44F6 /* SDL2_ttf-iOS */,
 			);
 		};
 /* End PBXProject section */
@@ -773,17 +638,6 @@
 				F384BE65261ECD9F0028A248 /* FreeType-LICENSE.txt in Resources */,
 				7FC2F5DC285AC0D600836845 /* CMake in Resources */,
 				F384BE62261ECD9F0028A248 /* HarfBuzz-LICENSE.txt in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DF5DA96028830CA600BA44F6 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DF5DA96128830CA600BA44F6 /* ReadMe.txt in Resources */,
-				DF5DA96228830CA600BA44F6 /* FreeType-LICENSE.txt in Resources */,
-				DF5DA96328830CA600BA44F6 /* CMake in Resources */,
-				DF5DA96428830CA600BA44F6 /* HarfBuzz-LICENSE.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -829,23 +683,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "PRODUCT_NAME=SDL2_ttf\n\n# Sign framework\nif [ \"$SDL_CODESIGN_IDENTITY\" != \"\" ]; then\n    codesign --force --deep --sign \"$SDL_CODESIGN_IDENTITY\" $TARGET_BUILD_DIR/$PRODUCT_NAME.framework/Versions/A || exit $?\nfi\n\n# clean up the framework, remove headers, extra files\nmkdir -p build/dmg-tmp\ncp -a $TARGET_BUILD_DIR/*.framework build/dmg-tmp/\ncp pkg-support/resources/ReadMe.txt build/dmg-tmp\n\n# remove the .DS_Store files if any (we may want to provide one in the future for fancy .dmgs)\nrm -rf build/dmg-tmp/.DS_Store\n\n# create the dmg\nhdiutil create -ov -fs HFS+ -volname $PRODUCT_NAME -srcfolder build/dmg-tmp build/$PRODUCT_NAME.dmg\n\n# clean up\nrm -rf build/dmg-tmp\n";
-		};
-		DF5DA9DC288356D900BA44F6 /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-			);
-			outputFileListPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\ncd \"$BUILT_PRODUCTS_DIR/$PUBLIC_HEADERS_FOLDER_PATH\"\nsed -i '' -e 's,#include \"\\(.*\\)\",#include <SDL2/\\1>,' *.h\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -1038,100 +875,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DF5DA96528830CA600BA44F6 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DF5DA96628830CA600BA44F6 /* ftbdf.c in Sources */,
-				DF5DA96728830CA600BA44F6 /* hb-ot-shape-complex-vowel-constraints.cc in Sources */,
-				DF5DA96828830CA600BA44F6 /* ftglyph.c in Sources */,
-				DF5DA96928830CA600BA44F6 /* type1cid.c in Sources */,
-				DF5DA96A28830CA600BA44F6 /* psaux.c in Sources */,
-				DF5DA96B28830CA600BA44F6 /* hb-set.cc in Sources */,
-				DF5DA96C28830CA600BA44F6 /* sfnt.c in Sources */,
-				DF5DA96D28830CA600BA44F6 /* hb-ot-cff1-table.cc in Sources */,
-				DF5DA96E28830CA600BA44F6 /* hb-ot-shape-complex-syllabic.cc in Sources */,
-				DF5DA96F28830CA600BA44F6 /* hb-ot-shape-complex-khmer.cc in Sources */,
-				DF5DA97028830CA600BA44F6 /* truetype.c in Sources */,
-				DF5DA97128830CA600BA44F6 /* hb-ot-map.cc in Sources */,
-				DF5DA97228830CA600BA44F6 /* ftcid.c in Sources */,
-				DF5DA97328830CA600BA44F6 /* hb-buffer.cc in Sources */,
-				DF5DA97428830CA600BA44F6 /* hb-shaper.cc in Sources */,
-				DF5DA97528830CA600BA44F6 /* type42.c in Sources */,
-				DF5DA97628830CA600BA44F6 /* hb-face.cc in Sources */,
-				DF5DA97728830CA600BA44F6 /* winfnt.c in Sources */,
-				DF5DA97828830CA600BA44F6 /* cff.c in Sources */,
-				DF5DA97928830CA600BA44F6 /* hb-buffer-serialize.cc in Sources */,
-				DF5DA97A28830CA600BA44F6 /* ftsynth.c in Sources */,
-				DF5DA97B28830CA600BA44F6 /* hb-ot-shape-normalize.cc in Sources */,
-				DF5DA97C28830CA600BA44F6 /* hb-static.cc in Sources */,
-				DF5DA97D28830CA600BA44F6 /* hb-number.cc in Sources */,
-				DF5DA97E28830CA600BA44F6 /* ftinit.c in Sources */,
-				DF5DA97F28830CA600BA44F6 /* hb-ot-shape.cc in Sources */,
-				DF5DA98028830CA600BA44F6 /* hb-ot-shape-complex-myanmar.cc in Sources */,
-				DF5DA98128830CA600BA44F6 /* hb-shape-plan.cc in Sources */,
-				DF5DA98228830CA600BA44F6 /* ftbase.c in Sources */,
-				DF5DA98328830CA600BA44F6 /* pcf.c in Sources */,
-				DF5DA98428830CA600BA44F6 /* ftlzw.c in Sources */,
-				DF5DA98528830CA600BA44F6 /* ftsystem.c in Sources */,
-				DF5DA98628830CA600BA44F6 /* ftpfr.c in Sources */,
-				DF5DA98728830CA600BA44F6 /* hb-ot-shape-complex-use.cc in Sources */,
-				DF5DA98828830CA600BA44F6 /* hb-ot-cff2-table.cc in Sources */,
-				DF5DA98928830CA600BA44F6 /* hb-ot-math.cc in Sources */,
-				DF5DA98A28830CA600BA44F6 /* ftmm.c in Sources */,
-				DF5DA98B28830CA600BA44F6 /* hb-ot-tag.cc in Sources */,
-				DF5DA98C28830CA600BA44F6 /* fttype1.c in Sources */,
-				DF5DA98D28830CA600BA44F6 /* ftstroke.c in Sources */,
-				DF5DA98E28830CA600BA44F6 /* hb-ot-shape-complex-hangul.cc in Sources */,
-				DF5DA98F28830CA600BA44F6 /* ftgzip.c in Sources */,
-				DF5DA99028830CA600BA44F6 /* svg.c in Sources */,
-				DF5DA99128830CA600BA44F6 /* autofit.c in Sources */,
-				DF5DA99228830CA600BA44F6 /* hb-ot-shape-complex-indic-table.cc in Sources */,
-				DF5DA99328830CA600BA44F6 /* hb-aat-map.cc in Sources */,
-				DF5DA99428830CA600BA44F6 /* ftgasp.c in Sources */,
-				DF5DA99528830CA600BA44F6 /* ftwinfnt.c in Sources */,
-				DF5DA99628830CA600BA44F6 /* SDL_ttf.c in Sources */,
-				DF5DA99728830CA600BA44F6 /* hb-ot-shape-complex-arabic.cc in Sources */,
-				DF5DA99828830CA600BA44F6 /* hb-common.cc in Sources */,
-				DF5DA99928830CA600BA44F6 /* hb-ot-metrics.cc in Sources */,
-				DF5DA99A28830CA600BA44F6 /* hb-aat-layout.cc in Sources */,
-				DF5DA99B28830CA600BA44F6 /* hb-blob.cc in Sources */,
-				DF5DA99C28830CA600BA44F6 /* hb-ot-shape-complex-thai.cc in Sources */,
-				DF5DA99D28830CA600BA44F6 /* type1.c in Sources */,
-				DF5DA99E28830CA600BA44F6 /* hb-shape.cc in Sources */,
-				DF5DA99F28830CA600BA44F6 /* raster.c in Sources */,
-				DF5DA9A028830CA600BA44F6 /* hb-ot-face.cc in Sources */,
-				DF5DA9A128830CA600BA44F6 /* ftgxval.c in Sources */,
-				DF5DA9A228830CA600BA44F6 /* hb-font.cc in Sources */,
-				DF5DA9A328830CA600BA44F6 /* hb-ucd.cc in Sources */,
-				DF5DA9A428830CA600BA44F6 /* ftpatent.c in Sources */,
-				DF5DA9A528830CA600BA44F6 /* sdf.c in Sources */,
-				DF5DA9A628830CA600BA44F6 /* hb-ft.cc in Sources */,
-				DF5DA9A728830CA600BA44F6 /* hb-ot-shape-fallback.cc in Sources */,
-				DF5DA9A828830CA600BA44F6 /* hb-ot-layout.cc in Sources */,
-				DF5DA9A928830CA600BA44F6 /* hb-ms-feature-ranges.cc in Sources */,
-				DF5DA9AA28830CA600BA44F6 /* bdf.c in Sources */,
-				DF5DA9AB28830CA600BA44F6 /* psmodule.c in Sources */,
-				DF5DA9AC28830CA600BA44F6 /* hb-ot-var.cc in Sources */,
-				DF5DA9AD28830CA600BA44F6 /* ftotval.c in Sources */,
-				DF5DA9AE28830CA600BA44F6 /* hb-ot-shape-complex-default.cc in Sources */,
-				DF5DA9AF28830CA600BA44F6 /* ftfstype.c in Sources */,
-				DF5DA9B028830CA600BA44F6 /* pshinter.c in Sources */,
-				DF5DA9B128830CA600BA44F6 /* hb-ot-font.cc in Sources */,
-				DF5DA9B228830CA600BA44F6 /* ftbitmap.c in Sources */,
-				DF5DA9B328830CA600BA44F6 /* smooth.c in Sources */,
-				DF5DA9B428830CA600BA44F6 /* hb-ot-shape-complex-hebrew.cc in Sources */,
-				DF5DA9B528830CA600BA44F6 /* ftbbox.c in Sources */,
-				DF5DA9B628830CA600BA44F6 /* hb-fallback-shape.cc in Sources */,
-				DF5DA9B728830CA600BA44F6 /* ftdebug.c in Sources */,
-				DF5DA9B828830CA600BA44F6 /* hb-unicode.cc in Sources */,
-				DF5DA9B928830CA600BA44F6 /* pfr.c in Sources */,
-				DF5DA9BA28830CA600BA44F6 /* hb-ot-shape-complex-indic.cc in Sources */,
-				DF5DA9BB28830CA600BA44F6 /* ftbzip2.c in Sources */,
-				DF5DA9BC28830CA600BA44F6 /* ftcache.c in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -1314,50 +1057,6 @@
 			};
 			name = Release;
 		};
-		DF5DA9C328830CA600BA44F6 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALLOW_TARGET_PLATFORM_SPECIALIZATION = NO;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5R72AJ6392;
-				FRAMEWORK_SEARCH_PATHS = "$(CONFIGURATION_BUILD_DIR)/**";
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				MODULEMAP_FILE = "$(PROJECT_DIR)/module.modulemap";
-				PRODUCT_NAME = SDL2_ttf;
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
-				SDKROOT = iphoneos;
-				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
-				SUPPORTS_MACCATALYST = NO;
-				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		DF5DA9C428830CA600BA44F6 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALLOW_TARGET_PLATFORM_SPECIALIZATION = NO;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5R72AJ6392;
-				FRAMEWORK_SEARCH_PATHS = "$(CONFIGURATION_BUILD_DIR)/**";
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				MODULEMAP_FILE = "$(PROJECT_DIR)/module.modulemap";
-				PRODUCT_NAME = SDL2_ttf;
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
-				SDKROOT = iphoneos;
-				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
-				SUPPORTS_MACCATALYST = NO;
-				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1393,15 +1092,6 @@
 			buildConfigurations = (
 				00B7E1F6097E26C600826121 /* Debug */,
 				00B7E1F7097E26C600826121 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Debug;
-		};
-		DF5DA9C228830CA600BA44F6 /* Build configuration list for PBXNativeTarget "SDL2_ttf-iOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				DF5DA9C328830CA600BA44F6 /* Debug */,
-				DF5DA9C428830CA600BA44F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
