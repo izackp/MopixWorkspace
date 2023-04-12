@@ -893,6 +893,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 5R72AJ6392;
+				INSTALL_PATH = "@executable_path/../Frameworks";
 				MODULEMAP_FILE = "$(PROJECT_DIR)/module.modulemap";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
@@ -906,6 +907,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 5R72AJ6392;
+				INSTALL_PATH = "@executable_path/../Frameworks";
 				MODULEMAP_FILE = "$(PROJECT_DIR)/module.modulemap";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
@@ -1045,6 +1047,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
 				PLATFORM = "";
 				"PLATFORM[sdk=appletvos*]" = tvOS;
 				"PLATFORM[sdk=iphoneos*]" = iOS;

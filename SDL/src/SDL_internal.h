@@ -111,7 +111,7 @@
    - *not* general blitting functions
    - {blend,draw}{fillrect,line,point} internal functions */
 #ifndef SDL_VIDEO_RENDER_SW
-#define SDL_VIDEO_RENDER_SW             !SDL_LEAN_AND_MEAN
+#define SDL_VIDEO_RENDER_SW             1
 #endif
 
 /* YUV formats

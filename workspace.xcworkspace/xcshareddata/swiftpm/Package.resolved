@@ -10,12 +10,39 @@
       }
     },
     {
+      "identity" : "icu-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kphrx/icu-swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "46ee83bf9ee8e6bc392dab9dd2cc4cd6a133c95b"
+      }
+    },
+    {
+      "identity" : "icu4c-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kPherox/icu4c-swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "48549b4281ff5f30d2602f39d82f530c31bcadb9"
+      }
+    },
+    {
       "identity" : "runtime",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/wickwirew/Runtime.git",
       "state" : {
         "revision" : "dad03135d7701a4e7b3a4051e75d6b37bd8e178e",
         "version" : "2.2.4"
+      }
+    },
+    {
+      "identity" : "xorswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/t-ae/xorswift",
+      "state" : {
+        "revision" : "ae782f1b70044e05cbd760303db7fa0cdf485ea2",
+        "version" : "3.2.0"
       }
     }
   ],

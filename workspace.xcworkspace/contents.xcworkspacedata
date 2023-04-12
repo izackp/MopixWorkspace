@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:OldTextStuff.swift">
+   </FileRef>
+   <FileRef
+      location = "group:OldTextStuff2.swift">
+   </FileRef>
+   <FileRef
       location = "group:Util/Util.xcodeproj">
    </FileRef>
    <FileRef
